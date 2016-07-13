@@ -11,8 +11,8 @@ email: sheehan5@me.com
 description: > # this means to ignore newlines until "baseurl:"
   This blog containts weekly posts of my experience working with
   the company ShakaCode, based in Maui, Hawaii. I will be posting
-  about things that I learn or find interesting, along with problems
-  I encounter and how I overcome them.
+  about things that I am learning, things I find interesting, and
+  problems I encounter.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
