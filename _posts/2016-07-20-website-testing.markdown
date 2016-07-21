@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Getting set up with Friends and Guests"
-date: 2016-07-09 10:01
+date: 2016-07-20 10:01
 categories: jekyll update
 ---
 About a week ago, I visited with Justin and Dylan at Justin's house. We met in his office, which had a stand-up desk with a couple of computers, a fancy keyboard, and a microphone. When I first came in, Justin and Dylan were talking over Screen Hero with Rob (another coworker), addressing some of the issues with their website Friends and Guests. As they went through different "flows" (such as logging in, creating a property, and sending guest list invitations), they found errors and things that could be improved. Then they made note of them on this website called Trello, which uses a Japanese post-it-note method of organizing different tasks based on priority. They had tons of uncompleted tasks on there, which really made me realize how intricate a process developing a website is.
