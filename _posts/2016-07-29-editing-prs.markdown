@@ -12,7 +12,7 @@ What I found most interesting about this process, that I came to realize that da
 
 It has been nice being able to work at home for most of this summer and choose my own hours, just like the actual people at ShakaCode do. I would be really excited to work for a company like this. Some cool things about their home "offices" I like:
 
-Underneath their stand-up desks are footstools where they rest one foot to alternate the weight, which is nice to have during hours of standing.
+Underneath their stand-up desks are footstools where they can rest a foot to alternate their weight, which is nice to have during hours of standing.
 
 They have multiple screens that are hooked up to one computer, between which they can drag and view several windows at once. It reminds me a lot of the Iron Man movies, where Tony Stark does the same thing but with a touchscreen hologram thingy.
 
@@ -22,6 +22,6 @@ They have multiple screens that are hooked up to one computer, between which the
 
 
 
-AND they have really cool keyboards that apparently makes typing easier, which honestly looks harder to me. But I bet once you get the hang of it it makes things a lot faster. (Mom, I know what I want for Christmas!)
+They have really cool keyboards that apparently makes typing easier, but which honestly looks *harder* to me. But I bet once you get the hang of it it makes things a lot faster. (Mom, I know what I want for Christmas!)
 
 ![Coding keyboard](http://images.anandtech.com/doci/6861/Kinesis%20Advantage%20(1)_575px.jpg)
