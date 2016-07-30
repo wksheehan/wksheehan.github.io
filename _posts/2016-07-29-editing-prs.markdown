@@ -14,7 +14,7 @@ It has been nice being able to work at home for most of this summer and choose m
 
 Underneath their stand-up desks are footstools where they rest one foot to alternate the weight, which is nice to have after hours of standing.
 
-They also have multiple screens that display one computer, between which they can drag windows between. It reminds me a lot of the Iron Man movies, where Tony Stark does the same thing but with a touch-screen hologram thing.
+They also have multiple screens that are hooked up to one computer, between which they can drag and view several windows at once. It reminds me a lot of the Iron Man movies, where Tony Stark does the same thing but with a touch-screen hologram thing.
 ![Image of Tony Stark](https://scifiinterfaces.files.wordpress.com/2015/11/avengers_pullvp-02.png?w=545)
 
 
